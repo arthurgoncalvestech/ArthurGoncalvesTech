@@ -131,9 +131,7 @@ SENAI
 ### 💼 Interesses
 
 * Inteligência Artificial
-* Automação
 * Tecnologia
 * Programação
 * Banco de Dados
-* Produtividade
 * Soluções digitais
