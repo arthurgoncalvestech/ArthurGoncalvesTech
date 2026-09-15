@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Arthur Gonçalves Silva
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Back End`**
 
 Me chamo Arthur Gonçalves Silva e sou estudante de Análise e Desenvolvimento de Sistemas na USCS, com formação técnica em Desenvolvimento de Sistemas pelo SENAI. Tenho interesse em tecnologia e busco transformar conhecimentos técnicos em soluções práticas para problemas reais.
 
